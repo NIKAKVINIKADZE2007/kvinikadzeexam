@@ -1,41 +1,48 @@
 
 1. 
 Question : "რა არის !important-ი css-ში და შეგვიძლია თუ არა მისი გამოყენება tailwind-ში?" 
-Answer : 
+Answer : !important mianiwebs mis ukan daweris styles yvelaze magal prioritets da tu ori stili gvaq erti da igive rameze
+ magalitad bacground-color:white da bacground-color:black  !importat mieniweba shavi tailwindsih ubralod !unda miawero stils
 --------
 2. 
 Question : "რა არის <iframe>?" 
-Answer : jlkjasdlkfjasd
+Answer : iframe aris html elementi romelsac sheudzlia sxva rame htmlis filis chatvirtva chevs documentshi (iyeneba rukebistvis reklamebistvis da a.sh) 
 --------
 3.
 Question : "მოიყვანეთ სემანტიკური ელემენტების მაგალითები" 
-Answer : 
+Answer : <header></header> <footer></footer> <section></section> da bevri sxva
 --------
 4.
 Question : "რა განსხვავებებია position: relative-ს, fixed-ს, absolute-სა და sticky-ის შორის?" 
-Answer : 
+Answer : position relative aris elemntis sawyisi wertilidan 
+position absolute aris mshobeli containeridan romelsac realtive uweria sxva shemtxvevashi html bodydan
+position fixed sul gamochndeba shens ekransze anu fixed on screen 
+sticky ragaca momentshi aris absolute xo shemdeg gadaiqceva position fixedad
 --------
 5.
 Question : "რითი განსხვავდება rem და em-ი ერთმანეთისგან?" 
-Answer : 
+Answer : rem ganisazvreba html rootshi da tu html{font-size:20px} font-size: 2rem nebismier elementze gaxdis 40pxs
+xolo em ganisazgvera mshoblis font-size it da 2 em iqneba mshoblis font-sizeis magalitad .parent{font-size:20px}  .child{font-size:2em}
+sxva elementebshi 2 em sxva font size iqneba                                                                                    //(40xp)
 --------
 6.
 Question : "რა არის ვირტუალური DOM-ი?" 
-Answer : 
+Answer : virtualuri dom (vdom) aris rerenderis dros sheqmnili Dom romelic dardeba Dom tan da sxva aisaxeba DOMshi
 --------
 7.
 Question : "რა არის useEffect-ის გამოყენების მიზანი?"
-Answer : 
+Answer : rom gavaketot sideEffect funqciebi magalitad gilakis daweris mere fetch requestis gagzavna 
 --------
 8.
 Question : "რა არის Zustand-ი?" 
-Answer : 
+Answer :  zustand aris biblioteka romelic gvexmareba globaluri cvladebis sheqmnashi 
+da globaluri statebis kontrolshi da ar gviwevs drilling anu xelit gadacema shvilobilze propsebis gadacema
 --------
 9.
 Question : "რა არის და როგორ შვქმნათ დინამიური როუთი Next.js-ში" 
-Answer : 
+Answer : gvwirdeba shevqnat [cvladis saxeli] 
 --------
 10.
 Question : "რისთვის ამოიყენება (home) ფოლდერის დასახლება Next-ში. " 
-Answer : 
+Answer : ()gamoiyeneba rom ertad davajgufot failebi da mat gavuwerot erti layout magalitad (logged in) and (loggedOut)
 --------
