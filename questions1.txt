@@ -5,7 +5,7 @@ Answer :
 --------
 2. 
 Question : "რა არის <iframe>?" 
-Answer : 
+Answer : jlkjasdlkfjasd
 --------
 3.
 Question : "მოიყვანეთ სემანტიკური ელემენტების მაგალითები" 
